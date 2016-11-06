@@ -51,6 +51,7 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  
  * ทดลอง Build และ Run โปรแกรม
  * บันทึกผลที่ได้
+ ![](https://github.com/settapong123/LAB-09/blob/master/imgs/lab901.JPG?raw=true)
 
 ###2.5.	การทดลองย่อย 2  การใช้สี
 ####2.5.1.	การใช้สีโดยการผสมค่าสี
